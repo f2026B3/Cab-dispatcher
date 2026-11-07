@@ -1,0 +1,34 @@
+[
+    {
+        "drivername": "Rahul Sharma",
+        "cabseat": 4,
+        "destination": "Delhi",
+        "timeslot": "Morning",
+        "available": true,
+        "studentincab":[]
+    },
+    {
+        "drivername": "Amit Verma",
+        "cabseat": 3,
+        "destination": "Jaipur",
+        "timeslot": "Afternoon",
+        "available": true,
+        "studentincab":[]
+    },
+    {
+        "drivername": "Sandeep Kumar",
+        "cabseat": 4,
+        "destination": "Delhi",
+        "timeslot": "Evening",
+        "available": true,
+        "studentincab":[]
+    },
+    {
+        "drivername": "Vikram Singh",
+        "cabseat": 2,
+        "destination": "Jaipur",
+        "timeslot": "Night",
+        "available": true,
+        "studentincab":[]
+    }
+]
